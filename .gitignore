@@ -1,0 +1,6 @@
+*.log
+__pycache__/
+*.pyc
+ung220z_*.log
+config.bat
+node_modules
